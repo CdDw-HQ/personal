@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+[Computer\HKEY_PUREX]
+[Computer\HKEY_PUREX\link]
+[Computer\HKEY_PUREX\link\gitstuf]
+[Computer\HKEY_PUREX\link\gitstuf\repo]
+"some-stuff"="https://github.com/RAFhub6/some-stuff"
+"SignPage"="https://github.com/RAFhub6/SignPage"
+"TestCsNET"="https://github.com/RAFhub6/TestCsNET"
+"Netcorescript-TERMINAL="https://github.com/RAFhub6/Netcorescript-TERMINAL"
+"page"="https://github.com/CdDw-HQ/page"
